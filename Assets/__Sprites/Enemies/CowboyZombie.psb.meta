@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 79bd890b6a0871c4b91cc8396d77ee69
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: CowboyZombie_GO/CowboyZombie_GO
+    100002: CowboyZombie_GO/CowboyZombie_GO/Layer 1
+    100004: CowboyZombie_GO/CowboyZombie_GO/Layer 3
+    100006: CowboyZombie_GO/CowboyZombie_GO/Layer 5
+    100008: CowboyZombie_GO/CowboyZombie_GO/Layer 6
+    100010: CowboyZombie_GO/CowboyZombie_GO/Layer 7
+    100012: CowboyZombie_GO/CowboyZombie_GO/Layer 8
+    400000: CowboyZombie_GO/CowboyZombie_GO/Transform
+    400002: CowboyZombie_GO/CowboyZombie_GO/Layer 1/Transform
+    400004: CowboyZombie_GO/CowboyZombie_GO/Layer 3/Transform
+    400006: CowboyZombie_GO/CowboyZombie_GO/Layer 5/Transform
+    400008: CowboyZombie_GO/CowboyZombie_GO/Layer 6/Transform
+    400010: CowboyZombie_GO/CowboyZombie_GO/Layer 7/Transform
+    400012: CowboyZombie_GO/CowboyZombie_GO/Layer 8/Transform
+    2800000: CowboyZombie
+    21200000: CowboyZombie_GO/CowboyZombie_GO/Layer 1/SpriteRenderer
+    21200002: CowboyZombie_GO/CowboyZombie_GO/Layer 3/SpriteRenderer
+    21200004: CowboyZombie_GO/CowboyZombie_GO/Layer 5/SpriteRenderer
+    21200006: CowboyZombie_GO/CowboyZombie_GO/Layer 6/SpriteRenderer
+    21200008: CowboyZombie_GO/CowboyZombie_GO/Layer 7/SpriteRenderer
+    21200010: CowboyZombie_GO/CowboyZombie_GO/Layer 8/SpriteRenderer
+    21300000: 354662ab0115e0d42a597647ecc061eb
+    21300002: b69d4e4054c0b2440851ac9fdb7d3836
+    21300004: 739aaceba8c83864e8937900e9e0f9f9
+    21300006: 9b2e0a40ba990d944b375c6f473ca08d
+    21300008: a0a2c62bf928c9147a1f6120ee460a43
+    21300010: dfffcd7c38ce1ef409df7771ebd95307
+    100100000: CowboyZombie_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Layer 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 6
+      width: 63
+      height: 38
+    spriteID: 354662ab0115e0d42a597647ecc061eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -24, y: -105}
+  - name: Layer 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 4
+      width: 41
+      height: 62
+    spriteID: b69d4e4054c0b2440851ac9fdb7d3836
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 89, y: -40}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 101
+      height: 104
+    spriteID: 739aaceba8c83864e8937900e9e0f9f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -73, y: 67}
+  - name: Layer 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 56
+      height: 79
+    spriteID: 9b2e0a40ba990d944b375c6f473ca08d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 13, y: 128}
+  - name: Layer 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 353
+      y: 4
+      width: 38
+      height: 49
+    spriteID: a0a2c62bf928c9147a1f6120ee460a43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 223, y: -44}
+  - name: Layer 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 125
+      width: 69
+      height: 54
+    spriteID: dfffcd7c38ce1ef409df7771ebd95307
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -53, y: 15}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 300, y: 300}
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Layer 7
+    spriteName: Layer 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 354662ab0115e0d42a597647ecc061eb
+    layerID: 23
+    mosaicPosition: {x: 4, y: 4}
+  - name: Layer 8
+    spriteName: Layer 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b69d4e4054c0b2440851ac9fdb7d3836
+    layerID: 25
+    mosaicPosition: {x: 187, y: 4}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 739aaceba8c83864e8937900e9e0f9f9
+    layerID: 3
+    mosaicPosition: {x: 4, y: 187}
+  - name: Layer 6
+    spriteName: Layer 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9b2e0a40ba990d944b375c6f473ca08d
+    layerID: 14
+    mosaicPosition: {x: 112, y: 187}
+  - name: Layer 5
+    spriteName: Layer 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0a2c62bf928c9147a1f6120ee460a43
+    layerID: 10
+    mosaicPosition: {x: 353, y: 4}
+  - name: Layer 3
+    spriteName: Layer 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dfffcd7c38ce1ef409df7771ebd95307
+    layerID: 7
+    mosaicPosition: {x: 4, y: 91}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: CowboyZombie
+  prefabAssetName: CowboyZombie_GO
